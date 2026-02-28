@@ -1,3 +1,3 @@
 Aula de git 
 
-feito algumas alterações 
+feito algumas alterações agora 
